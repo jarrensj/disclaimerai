@@ -1,0 +1,27 @@
+[
+  {
+    "id": "financial",
+    "label": "Not Financial Advice",
+    "blurb": "This content is for informational purposes only and should not be considered financial advice. We do not provide personalized investment recommendations. We may own positions in assets mentioned. Always conduct your own research and consult with a qualified financial advisor before making any investment decisions. Any actions you take based on this content are solely your responsibility, and we are not liable for any financial losses or decisions you make."
+  },
+  {
+    "id": "health",
+    "label": "Not Health Advice",
+    "blurb": "The information provided is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read here."
+  },
+  {
+    "id": "referral",
+    "label": "Referral Links",
+    "blurb": "Some links included in this content may be affiliate links. We may receive a commission for purchases made through these links at no additional cost to you. This helps support our work and allows us to continue providing valuable content."
+  },
+  {
+    "id": "educational",
+    "label": "Educational Content",
+    "blurb": "The content provided is for educational purposes only. It does not constitute professional advice in any field. Readers should use their own judgment and seek professional guidance when necessary."
+  },
+  {
+    "id": "legal",
+    "label": "Legal Disclaimer",
+    "blurb": "This content is provided for general informational purposes only and should not be construed as legal advice. No attorney-client relationship is formed by viewing this content, and you should not act upon the information without consulting with qualified legal professionals. We disclaim all liability for actions taken based on the content provided here."
+  }
+]
